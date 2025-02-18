@@ -2,7 +2,7 @@
   "name": "kingz-congo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KingzOfKongo.github.io/KingzOfKongo_test_hebg",
+  "homepage": "https://KingzOfKongo.github.io/KingzOfKongo_test_hebg/",
   "dependencies": {
     "@paypal/react-paypal-js": "^8.8.2",
     "background": "^0.3.3",
