@@ -10,7 +10,7 @@ const actions = [
     title: "Actions Caritatives",
     description:
       "Nous organisons des événements pour soutenir les communautés locales, en offrant des ressources et un encadrement aux jeunes passionnés de basketball.",
-      image: process.env.PUBLIC_URL + "actions1.jpg",
+      image: "actions1.jpg",
   },
   {
     title: "Stages & Camps U9-U15",
