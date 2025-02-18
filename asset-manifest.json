@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KingzOfKongo_test_hebg/static/css/main.078c5cb7.css",
+    "main.js": "/KingzOfKongo_test_hebg/static/js/main.3612d5f2.js",
+    "static/js/488.9abb99db.chunk.js": "/KingzOfKongo_test_hebg/static/js/488.9abb99db.chunk.js",
+    "static/media/video-actions.mp4": "/KingzOfKongo_test_hebg/static/media/video-actions.6888a16a08cc8da5b828.mp4",
+    "static/media/video-contact.mp4": "/KingzOfKongo_test_hebg/static/media/video-contact.af94ed015cc3d6152c08.mp4",
+    "static/media/img_don.jpg": "/KingzOfKongo_test_hebg/static/media/img_don.695bf1d22d5fd8d0662a.jpg",
+    "static/media/IMG_9706R.jpg": "/KingzOfKongo_test_hebg/static/media/IMG_9706R.515476856e0b26fb64c8.jpg",
+    "static/media/img-about.jpg": "/KingzOfKongo_test_hebg/static/media/img-about.dfb0135dda60dd48e515.jpg",
+    "static/media/members-img.jpg": "/KingzOfKongo_test_hebg/static/media/members-img.3e464eedc19a908d8a72.jpg",
+    "index.html": "/KingzOfKongo_test_hebg/index.html",
+    "main.078c5cb7.css.map": "/KingzOfKongo_test_hebg/static/css/main.078c5cb7.css.map",
+    "main.3612d5f2.js.map": "/KingzOfKongo_test_hebg/static/js/main.3612d5f2.js.map",
+    "488.9abb99db.chunk.js.map": "/KingzOfKongo_test_hebg/static/js/488.9abb99db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078c5cb7.css",
+    "static/js/main.3612d5f2.js"
+  ]
+}
