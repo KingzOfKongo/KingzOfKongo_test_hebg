@@ -10,7 +10,7 @@ const actions = [
     title: "Actions Caritatives",
     description:
       "Nous organisons des événements pour soutenir les communautés locales, en offrant des ressources et un encadrement aux jeunes passionnés de basketball.",
-      image: process.env.PUBLIC_URL + "actions1.jpg",
+      image: process.env.PUBLIC_URL + "/images/actions1.jpg",
   },
   {
     title: "Stages & Camps U9-U15",
@@ -22,7 +22,7 @@ const actions = [
     title: "Tournoi Kingz Of B-Ball",
     description:
       "Un tournoi de basketball unique qui rassemble des équipes de différents horizons, mettant en avant le talent et la passion du jeu.",
-    image: "/images/actions3.jpg", // Correction du nom du fichier
+      image: process.env.PUBLIC_URL + "/images/actions3.jpg", // Correction du nom du fichier
   },
 ];
 
