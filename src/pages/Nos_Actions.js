@@ -10,13 +10,13 @@ const actions = [
     title: "Actions Caritatives",
     description:
       "Nous organisons des événements pour soutenir les communautés locales, en offrant des ressources et un encadrement aux jeunes passionnés de basketball.",
-      image: "actions1.jpg",
+      image: process.env.PUBLIC_URL + "actions1.jpg",
   },
   {
     title: "Stages & Camps U9-U15",
     description:
       "Des stages dédiés aux jeunes joueurs de 9 à 15 ans, avec un encadrement professionnel pour les aider à progresser et à développer leurs compétences.",
-    image: "/images/actions2.jpg",
+      image: process.env.PUBLIC_URL + "/images/actions2.jpg",
   },
   {
     title: "Tournoi Kingz Of B-Ball",
